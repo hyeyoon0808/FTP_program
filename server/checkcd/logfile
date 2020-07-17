@@ -1,0 +1,4 @@
+Server -> Client: 74 
+Server -> Client: /Users/chohyeyoon/Desktop/A2_Hyeyoon_Cho_Harshad_Suresh/ftp/server/checkcd 
+Server -> Client: cd .. 
+Client -> Server: 0 

@@ -1,0 +1,41 @@
+--------------------------------------------
+The server connection is succeed.
+ pid number is 7682
+--------------------------------------------
+--------------------------------------------
+The server connection is succeed.
+ pid number is 7738
+--------------------------------------------
+Server -> Client: 66 
+Server -> Client: /Users/chohyeyoon/Desktop/A2_Hyeyoon_Cho_Harshad_Suresh/ftp/server 
+Server -> Client:  
+Server -> Client: 
+	myftpd
+	big.txt
+	makefile
+	checkcd
+	bigbig.txt
+	stream.o
+	stream.h
+	values.h
+	logfile
+	small.txt
+	stream.c
+	myftpd.c 
+Server -> Client: cd checkcd 
+Client -> Server: 0 
+Server -> Client: 66 
+Server -> Client: /Users/chohyeyoon/Desktop/A2_Hyeyoon_Cho_Harshad_Suresh/ftp/server 
+Client -> Server: W 
+Server -> Client: W 
+Client -> Server: D 
+Server -> Client: D 
+Client -> Server: C 
+Client -> Server: W 
+Server -> Client: W 
+Client -> Server: C 
+Client -> Server: W 
+Server -> Client: W 
+Client -> Server: Q 
+--------------------------------------------
+The server connection is ended
